@@ -11,7 +11,7 @@ Mi objetivo es usar la ingeniería y el desarrollo de software para **transforma
 # 🚀 Sobre mí
 
 - 🎓 **Ingeniero de Sistemas** 
-- ⚡ **Desarrollador Full Stack Junior** entrenado en **Riwi**, con experiencia práctica simulando entornos reales de trabajo bajo metodologías ágiles (**Scrum**).
+- ⚡ **Desarrollador Backend Junior** entrenado en **Riwi**, con experiencia práctica simulando entornos reales de trabajo bajo metodologías ágiles (**Scrum**).
 - 🌱 Especializado en el ecosistema **Java (Spring Boot)** y **Python**, integrando soluciones modernas de **Inteligencia Artificial (Spring AI)** y arquitecturas de datos.
 - 🤝 Abierto a colaborar en proyectos tecnológicos de alto rendimiento y soluciones con impacto social.
 
