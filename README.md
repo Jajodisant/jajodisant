@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jainer Pabón Borja
 
-💻 **Systems Engineer | Full Stack & Backend Developer**
+💻 **Systems Engineer | Backend Developer**
 
 Me apasiona construir soluciones tecnológicas robustas, eficientes y escalables que resuelvan **problemas reales**, especialmente en comunidades donde la tecnología puede generar un impacto social y transformador.
 
